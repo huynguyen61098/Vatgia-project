@@ -1,10 +1,15 @@
 # Phân tích dữ liệu mẫu từ trang vatgia.com
-*Sau khi đọc bài tuyển dụng của công ty VPN, em nhận thấy công ty sở hữu một vài website lớn nên đã quyết định sử dụng kĩ năng của bản thân để làm một project nhỏ
-*Các dữ liệu được lấy từ trang "vatgia.com"
-*Trong project này em lấy dữ liệu trực tiếp từ trang chủ, xử lý dữ liệu và thực hiện một số thao tác phân tích trên bộ dữ liệu hoàn chỉnh
-*script lấy dữ liệu nằm trong file scrap.py
-*dữ liệu nằm trong file data6.csv
-*bài phân tích nằm trong file EDA.ipynb
+-Sau khi đọc bài tuyển dụng của công ty VPN, em nhận thấy công ty sở hữu một vài website lớn nên đã quyết định sử dụng kĩ năng của bản thân để làm một project nhỏ
+
+-Các dữ liệu được lấy từ trang "vatgia.com"
+
+-Trong project này em lấy dữ liệu trực tiếp từ trang chủ, xử lý dữ liệu và thực hiện một số thao tác phân tích trên bộ dữ liệu hoàn chỉnh
+
+-script lấy dữ liệu nằm trong file scrap.py
+
+-dữ liệu nằm trong file data6.csv
+
+-bài phân tích nằm trong file EDA.ipynb
 
 
 # Installation
