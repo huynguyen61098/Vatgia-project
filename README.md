@@ -3,7 +3,7 @@
 -Các dữ liệu được lấy từ trang "vatgia.com"
 -Trong project này em lấy dữ liệu trực tiếp từ trang chủ, xử lý dữ liệu và thực hiện một số thao tác phân tích trên bộ dữ liệu hoàn chỉnh
 
-#Installation
+##Installation
 Project sử dụng python 3.8.5
 
 Sử dụng [pip](https://pip.pypa.io/en/stable/) để cài đặt các packages.
@@ -17,7 +17,7 @@ pip install bs4
 pip install requests
 ```
 
-#License
+##License
 
 (https://www.apache.org/licenses/LICENSE-2.0)
 
